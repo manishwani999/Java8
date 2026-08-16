@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37301b0e-1410-4d0c-867c-e0afaf490957" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "manishwani999"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/manishwani999/Java.git",
+    "accountId": "f96f5b62-0a74-4b7e-bf66-17c684449eef"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\DevTools\Maven\apache-maven-3.9.16" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3905949828442596" />
+      <entry key="MS500" value="3.8366212680497553" />
+      <entry key="S2" value="6.746409704449101" />
+      <entry key="S5" value="9.218711072502995" />
+      <entry key="S10" value="14.838762295584047" />
+      <entry key="S30" value="44.29395990774786" />
+      <entry key="S60" value="77.64184998526511" />
+      <entry key="M2" value="111.28814135445775" />
+      <entry key="M5" value="142.70035794712865" />
+      <entry key="M10" value="157.6965793611784" />
+      <entry key="M15" value="168.63720023992417" />
+      <entry key="M30" value="209.7875604623009" />
+      <entry key="H1" value="279.97686662349525" />
+      <entry key="H2" value="349.84604308427555" />
+      <entry key="H4" value="399.9009278491177" />
+      <entry key="D1" value="452.1817515855065" />
+      <entry key="W1" value="462.2815224216892" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="9.188441446734277E-107" />
+      <entry key="S2" value="4.985747027101639E-27" />
+      <entry key="S5" value="5.686953122862912E-11" />
+      <entry key="S10" value="1.553987689866823E-5" />
+      <entry key="S30" value="0.0806503467185836" />
+      <entry key="S60" value="0.7307366544590129" />
+      <entry key="M2" value="2.24229583494896" />
+      <entry key="M5" value="4.437548978531486" />
+      <entry key="M10" value="5.825714048002707" />
+      <entry key="M15" value="6.865453578698572" />
+      <entry key="M30" value="9.446004673019239" />
+      <entry key="H1" value="12.37842854623383" />
+      <entry key="H2" value="14.718715853028938" />
+      <entry key="H4" value="16.218478473206748" />
+      <entry key="D1" value="17.68112716741715" />
+      <entry key="W1" value="17.9538747318435" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3431576086470762" />
+      <entry key="MS500" value="3.78979311021511" />
+      <entry key="S2" value="6.723458154445724" />
+      <entry key="S5" value="9.196835070087019" />
+      <entry key="S10" value="14.803670543145333" />
+      <entry key="S30" value="44.319446902832816" />
+      <entry key="S60" value="78.3021190382062" />
+      <entry key="M2" value="113.45916786406428" />
+      <entry key="M5" value="147.09074861870485" />
+      <entry key="M10" value="163.49331735647" />
+      <entry key="M15" value="175.48096257937505" />
+      <entry key="M30" value="219.21996151692994" />
+      <entry key="H1" value="292.3469230710937" />
+      <entry key="H2" value="364.5599326935018" />
+      <entry key="H4" value="416.1167847270058" />
+      <entry key="D1" value="469.86240753358095" />
+      <entry key="W1" value="480.2353289170744" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3I0DhcUt83lngtunoYLswOsOdY9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Application.Lambda01.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "git.auto.fetch.suggestion.counter": "1",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Lambda01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpression.Lambda01" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdaExpression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lambda01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37301b0e-1410-4d0c-867c-e0afaf490957" name="Changes" comment="" />
+      <created>1786892713056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786892713056</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
