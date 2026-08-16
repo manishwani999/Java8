@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,61 +48,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3905949828442596" />
-      <entry key="MS500" value="3.8366212680497553" />
-      <entry key="S2" value="6.746409704449101" />
-      <entry key="S5" value="9.218711072502995" />
-      <entry key="S10" value="14.838762295584047" />
-      <entry key="S30" value="44.29395990774786" />
-      <entry key="S60" value="77.64184998526511" />
-      <entry key="M2" value="111.28814135445775" />
-      <entry key="M5" value="142.70035794712865" />
-      <entry key="M10" value="157.6965793611784" />
-      <entry key="M15" value="168.63720023992417" />
-      <entry key="M30" value="209.7875604623009" />
-      <entry key="H1" value="279.97686662349525" />
-      <entry key="H2" value="349.84604308427555" />
-      <entry key="H4" value="399.9009278491177" />
-      <entry key="D1" value="452.1817515855065" />
-      <entry key="W1" value="462.2815224216892" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="3.4882278103848346E-123" />
+      <entry key="S5" value="1.9571323030984087E-49" />
+      <entry key="S10" value="1.1432203733858485E-24" />
+      <entry key="S30" value="6.268220366867138E-8" />
+      <entry key="S60" value="0.0012863353586005503" />
+      <entry key="M2" value="0.22165530202078707" />
+      <entry key="M5" value="8.097671878500543" />
+      <entry key="M10" value="43.48309295466014" />
+      <entry key="M15" value="84.07003376401353" />
+      <entry key="M30" value="182.79322094598032" />
+      <entry key="H1" value="306.8558225660163" />
+      <entry key="H2" value="425.17690812203017" />
+      <entry key="H4" value="511.70451844987616" />
+      <entry key="D1" value="604.6074315154201" />
+      <entry key="W1" value="622.8801378847951" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="9.188441446734277E-107" />
-      <entry key="S2" value="4.985747027101639E-27" />
-      <entry key="S5" value="5.686953122862912E-11" />
-      <entry key="S10" value="1.553987689866823E-5" />
-      <entry key="S30" value="0.0806503467185836" />
-      <entry key="S60" value="0.7307366544590129" />
-      <entry key="M2" value="2.24229583494896" />
-      <entry key="M5" value="4.437548978531486" />
-      <entry key="M10" value="5.825714048002707" />
-      <entry key="M15" value="6.865453578698572" />
-      <entry key="M30" value="9.446004673019239" />
-      <entry key="H1" value="12.37842854623383" />
-      <entry key="H2" value="14.718715853028938" />
-      <entry key="H4" value="16.218478473206748" />
-      <entry key="D1" value="17.68112716741715" />
-      <entry key="W1" value="17.9538747318435" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000000330612193" />
+      <entry key="S60" value="1.000586799964652" />
+      <entry key="M2" value="1.0999351512177706" />
+      <entry key="M5" value="3.493034264969335" />
+      <entry key="M10" value="8.831449980068395" />
+      <entry key="M15" value="12.913808952132863" />
+      <entry key="M30" value="20.442477848871373" />
+      <entry key="H1" value="27.572326670978107" />
+      <entry key="H2" value="33.09737781651655" />
+      <entry key="H4" value="36.67429215274788" />
+      <entry key="D1" value="40.21858658948095" />
+      <entry key="W1" value="40.88676237435333" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.3431576086470762" />
-      <entry key="MS500" value="3.78979311021511" />
-      <entry key="S2" value="6.723458154445724" />
-      <entry key="S5" value="9.196835070087019" />
-      <entry key="S10" value="14.803670543145333" />
-      <entry key="S30" value="44.319446902832816" />
-      <entry key="S60" value="78.3021190382062" />
-      <entry key="M2" value="113.45916786406428" />
-      <entry key="M5" value="147.09074861870485" />
-      <entry key="M10" value="163.49331735647" />
-      <entry key="M15" value="175.48096257937505" />
-      <entry key="M30" value="219.21996151692994" />
-      <entry key="H1" value="292.3469230710937" />
-      <entry key="H2" value="364.5599326935018" />
-      <entry key="H4" value="416.1167847270058" />
-      <entry key="D1" value="469.86240753358095" />
-      <entry key="W1" value="480.2353289170744" />
+      <entry key="MS100" value="0.005640348420009751" />
+      <entry key="MS500" value="0.3550268396358568" />
+      <entry key="S2" value="0.7719075639524613" />
+      <entry key="S5" value="0.9016253600934487" />
+      <entry key="S10" value="0.9495395516214418" />
+      <entry key="S30" value="0.9828888180923174" />
+      <entry key="S60" value="0.9932586602849799" />
+      <entry key="M2" value="1.3155807484708364" />
+      <entry key="M5" value="11.572992346003165" />
+      <entry key="M10" value="52.28798247643477" />
+      <entry key="M15" value="96.95657400221121" />
+      <entry key="M30" value="203.2129691078632" />
+      <entry key="H1" value="334.4124722605908" />
+      <entry key="H2" value="458.2647865198224" />
+      <entry key="H4" value="548.3735244289254" />
+      <entry key="D1" value="644.8250485064139" />
+      <entry key="W1" value="663.7667593591531" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -118,6 +118,7 @@
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Application.Lambda01.executor": "Run",
+    "Application.ThreadCreate.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -127,7 +128,6 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
     "git.auto.fetch.suggestion.counter": "1",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
