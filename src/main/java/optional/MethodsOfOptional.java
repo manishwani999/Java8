@@ -48,7 +48,38 @@ public class MethodsOfOptional {
         */
 
         String value = state.orElse("Not Available");
-        System.out.println("state : "+value);
+        System.out.println("state : " + value);
+
+        /* *
+          ifPresent() - executes code only when the value exists.
+        */
+
+        name.ifPresent(val -> System.out.println(val));
+        name.ifPresent(System.out::println); //* method reference
+
+        /* *
+            filter() - allows you to keep the value only if it
+            satisfies the condition
+
+            if not satisfies then output is Optional.empty
+        */
+
+        Optional<Integer> num = Optional.of(1);
+        Optional<Integer> result = num.filter(n -> n > 5);
+        System.out.println("Result = " + result);
+
+        /* *
+            map() - it transforms the value inside Optional
+        */
+
+        Optional<String> nameToUpperCase =
+                name.map(String::toUpperCase);
+        System.out.println(nameToUpperCase);    //! MANISH
+
+
+
+
+
 
 
 
