@@ -77,12 +77,5 @@ public class MethodsOfOptional {
         System.out.println(nameToUpperCase);    //! MANISH
 
 
-
-
-
-
-
-
-
     }
 }
